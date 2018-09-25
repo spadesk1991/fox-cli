@@ -1,0 +1,36 @@
+{
+  "name": "fox-cli",
+  "version": "1.0.0",
+  "description": "koa cli",
+  "bin": {
+    "okii": "index.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "download-git-repo": "^1.1.0",
+    "handlebars": "^4.0.12",
+    "inquirer": "^6.2.0",
+    "log-symbols": "^2.2.0",
+    "ora": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spadesk1991/fox-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "koa"
+  ],
+  "author": "spadesk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spadesk1991/fox-cli/issues"
+  },
+  "homepage": "https://github.com/spadesk1991/fox-cli#readme"
+}
